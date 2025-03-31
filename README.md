@@ -3,12 +3,6 @@
 <!--
 **Chandu-Pudhipattu/Chandu-Pudhipattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-# Professional Summary :
-
-Results-oriented **Data Scientist with 1+ year** of experience in gathering data insights to help business stakeholders achieve quantifiable goals and reduce churn metrics. Skilled in machine learning, statistical modeling, and artificial intelligence, with a proven ability to develop and deploy predictive models and conduct exploratory data analysis (EDA). Proficient in Python, TensorFlow, PyTorch, SQL, and Power BI, with hands-on experience in end-to-end model development and deployment. Demonstrated expertise in optimizing data pipelines and delivering actionable insights that drive business growth. Effective collaborator and strategic thinker, passionate about continuous learning and leveraging AI/ML solutions to enhance decision-making processes.
-
-# 💫 About Me:
 - 🔭 **I’m currently working on** Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning.
 - 🌱 **I’m currently learning** Large Language Models (LLMs) and Generative AI for analysing different AI models
 - 💬 **Ask me about** working with data—turning raw numbers into actionable insights!
@@ -16,6 +10,9 @@ Results-oriented **Data Scientist with 1+ year** of experience in gathering data
 - ⚡ **Fun fact:** I once optimized a data pipeline so efficiently that it finished running before
 the coffee **brewed—precision is my superpower!**
 
+# 💫 About Me :
+
+Results-oriented **Data Scientist with 1+ year** of experience in gathering data insights to help business stakeholders achieve quantifiable goals and reduce churn metrics. Skilled in machine learning, statistical modeling, and artificial intelligence, with a proven ability to develop and deploy predictive models and conduct exploratory data analysis (EDA). Proficient in Python, TensorFlow, PyTorch, SQL, and Power BI, with hands-on experience in end-to-end model development and deployment. Demonstrated expertise in optimizing data pipelines and delivering actionable insights that drive business growth. Effective collaborator and strategic thinker, passionate about continuous learning and leveraging AI/ML solutions to enhance decision-making processes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-pudhipattu-99bb94204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanducn3109@gmail.com) 
