@@ -8,7 +8,7 @@
 - 💬 **Ask me about** working with data—turning raw numbers into actionable insights!
 - 📫 **How to reach me:** https://www.linkedin.com/in/chandu-pudhipattu-99bb94204/
 - ⚡ **Fun fact:** I once optimized a data pipeline so efficiently that it finished running before
-the coffee ****brewed—**precision is my superpower!**
+the coffee brewed—**precision is my superpower!**
 
 # 💫 About Me :
 
